@@ -1,0 +1,14 @@
+{
+  "name": "@grp-toska/apina",
+  "version": "0.0.1",
+  "description": "Intended to remove some api boilerplate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jami Kousa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
